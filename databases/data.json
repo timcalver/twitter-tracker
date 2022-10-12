@@ -1,0 +1,710 @@
+{
+	"accounts": {
+		"followingIDS": [
+			"1319615541753962496",
+			"383880191",
+			"204019952",
+			"1394502926740213762",
+			"3002047989",
+			"544653398",
+			"3089221907",
+			"830138737"
+		],
+		"followingData": {
+			"204019952": {
+				"name": "lora ",
+				"username": "___zea"
+			},
+			"383880191": {
+				"name": "mICHAEL",
+				"username": "washedlikeme"
+			},
+			"544653398": {
+				"name": "sophi",
+				"username": "sojiphi"
+			},
+			"830138737": {
+				"name": "PixelMarket",
+				"username": "Escrow"
+			},
+			"3002047989": {
+				"name": "vsnz",
+				"username": "THEvsnz"
+			},
+			"3089221907": {
+				"name": "rami.",
+				"username": "tsukimaxo"
+			},
+			"1319615541753962496": {
+				"name": "bly",
+				"username": "b0ily"
+			},
+			"1394502926740213762": {
+				"name": "tracy 🌻",
+				"username": "intimate"
+			}
+		}
+	},
+	"elonmusk": {
+		"followingIDS": [
+			"1308211178",
+			"2292565884",
+			"1335132884278108161",
+			"2993230373",
+			"1179892477714718721",
+			"76980293",
+			"958324785229934593",
+			"1720046887",
+			"2997418453",
+			"14486697",
+			"4914384040",
+			"30699048",
+			"177101260",
+			"1346194631982247943",
+			"1402156691186241538",
+			"3669881952",
+			"1068831",
+			"1359595748942372867",
+			"822825713615175680",
+			"1279551125264445448",
+			"16178922",
+			"1333467482",
+			"2445883045",
+			"2235729541",
+			"33836629",
+			"85891683",
+			"23116280",
+			"776585502606721024",
+			"49310901",
+			"4230101712",
+			"1024391197",
+			"1100520274200416256",
+			"3346820638",
+			"410605574",
+			"169686021",
+			"1201427034754318337",
+			"4783690002",
+			"81961201",
+			"4398626122",
+			"175624200",
+			"1526643050",
+			"12",
+			"344538987",
+			"29873662",
+			"18208354",
+			"3167257102",
+			"2444425802",
+			"892826509622353920",
+			"21292523",
+			"760345658",
+			"2263452746",
+			"2907774137",
+			"2263437272",
+			"72862939",
+			"243418245",
+			"3101588527",
+			"905158770107568133",
+			"26572460",
+			"25422302",
+			"446719282",
+			"19725644",
+			"987978757",
+			"150732943",
+			"2361631088",
+			"427089628",
+			"1091459141397180416",
+			"621573",
+			"851773048973807617",
+			"20972371",
+			"22677790",
+			"137857547",
+			"5943622",
+			"86390214",
+			"3429950987",
+			"7267562",
+			"64488804",
+			"1558996520",
+			"11150432",
+			"14171401",
+			"289476502",
+			"5402612",
+			"255784266",
+			"2436389418",
+			"176774540",
+			"692023",
+			"3511430425",
+			"729468343",
+			"19802879",
+			"1451773004",
+			"859816394556284929",
+			"511402689",
+			"1654188770",
+			"287568380",
+			"23504870",
+			"1582853809",
+			"2329316496",
+			"11348282",
+			"38430500",
+			"209811713",
+			"2251623492",
+			"1282121312",
+			"259771124",
+			"316327930",
+			"17248121",
+			"1182382878",
+			"11178902",
+			"16689804",
+			"13298072",
+			"34743251"
+		],
+		"followingData": {
+			"12": {
+				"name": "jack⚡️",
+				"username": "jack"
+			},
+			"621573": {
+				"name": "BBC Science News",
+				"username": "BBCScienceNews"
+			},
+			"692023": {
+				"name": "bill lee 🚽",
+				"username": "westcoastbill"
+			},
+			"1068831": {
+				"name": "Slashdot",
+				"username": "slashdot"
+			},
+			"5402612": {
+				"name": "BBC Breaking News",
+				"username": "BBCBreaking"
+			},
+			"5943622": {
+				"name": "Marc Andreessen",
+				"username": "pmarca"
+			},
+			"7267562": {
+				"name": "BBC Comedy",
+				"username": "bbccomedy"
+			},
+			"11150432": {
+				"name": "Tosca Musk",
+				"username": "ToscaMusk"
+			},
+			"11178902": {
+				"name": "The New York Review of Books",
+				"username": "nybooks"
+			},
+			"11348282": {
+				"name": "NASA",
+				"username": "NASA"
+			},
+			"13298072": {
+				"name": "Tesla",
+				"username": "Tesla"
+			},
+			"14171401": {
+				"name": "Maye Musk",
+				"username": "mayemusk"
+			},
+			"14486697": {
+				"name": "Parag Agrawal",
+				"username": "paraga"
+			},
+			"16178922": {
+				"name": "The Mars Society",
+				"username": "TheMarsSociety"
+			},
+			"16689804": {
+				"name": "Khan Academy",
+				"username": "khanacademy"
+			},
+			"17248121": {
+				"name": "Phys.org",
+				"username": "physorg_com"
+			},
+			"18208354": {
+				"name": "Joe Rogan",
+				"username": "joerogan"
+			},
+			"19725644": {
+				"name": "Neil deGrasse Tyson",
+				"username": "neiltyson"
+			},
+			"19802879": {
+				"name": "NASA JPL",
+				"username": "NASAJPL"
+			},
+			"20972371": {
+				"name": "Dan Carlin",
+				"username": "HardcoreHistory"
+			},
+			"21292523": {
+				"name": "Chris Bergin - NSF",
+				"username": "NASASpaceflight"
+			},
+			"22677790": {
+				"name": "Jon Favreau",
+				"username": "Jon_Favreau"
+			},
+			"23116280": {
+				"name": "Popular Mechanics",
+				"username": "PopMech"
+			},
+			"23504870": {
+				"name": "South Park",
+				"username": "SouthPark"
+			},
+			"25422302": {
+				"name": "Liv Boeree",
+				"username": "Liv_Boeree"
+			},
+			"26572460": {
+				"name": "United States Space Force",
+				"username": "SpaceForceDoD"
+			},
+			"29873662": {
+				"name": "Marques Brownlee",
+				"username": "MKBHD"
+			},
+			"30699048": {
+				"name": "Shibetoshi Nakamoto",
+				"username": "BillyM2k"
+			},
+			"33836629": {
+				"name": "Andrej Karpathy",
+				"username": "karpathy"
+			},
+			"34743251": {
+				"name": "SpaceX",
+				"username": "SpaceX"
+			},
+			"38430500": {
+				"name": "DEVELOP",
+				"username": "developonline"
+			},
+			"49310901": {
+				"name": "Nigel Lockyer",
+				"username": "Nigel_Lockyer"
+			},
+			"64488804": {
+				"name": "Ken Levine",
+				"username": "levine"
+			},
+			"72862939": {
+				"name": "HIRO MIZUNO",
+				"username": "hiromichimizuno"
+			},
+			"76980293": {
+				"name": "Moxie Marlinspike",
+				"username": "moxie"
+			},
+			"81961201": {
+				"name": "Ashlee Vance",
+				"username": "ashleevance"
+			},
+			"85891683": {
+				"name": "NOGUCHI, Soichi 野口　聡一（のぐち　そういち）",
+				"username": "Astro_Soichi"
+			},
+			"86390214": {
+				"name": "Wikipedia",
+				"username": "Wikipedia"
+			},
+			"137857547": {
+				"name": "前澤友作",
+				"username": "yousuck2020"
+			},
+			"150732943": {
+				"name": "Brian Berger",
+				"username": "Brian_J_Berger"
+			},
+			"169686021": {
+				"name": "ye",
+				"username": "kanyewest"
+			},
+			"175624200": {
+				"name": "John Carmack",
+				"username": "ID_AA_Carmack"
+			},
+			"176774540": {
+				"name": "CGP Grey 🐝",
+				"username": "cgpgrey"
+			},
+			"177101260": {
+				"name": "Massimo",
+				"username": "Rainmaker1973"
+			},
+			"209811713": {
+				"name": "The Hacker News",
+				"username": "TheHackersNews"
+			},
+			"243418245": {
+				"name": "Jim Bridenstine",
+				"username": "JimBridenstine"
+			},
+			"255784266": {
+				"name": "GeekWire",
+				"username": "geekwire"
+			},
+			"259771124": {
+				"name": "@arxivblog",
+				"username": "arxivblog"
+			},
+			"287568380": {
+				"name": "Medical Xpress",
+				"username": "medical_xpress"
+			},
+			"289476502": {
+				"name": "Lisa Joy",
+				"username": "lisajoynolan"
+			},
+			"316327930": {
+				"name": "Neuroskeptic",
+				"username": "Neuro_Skeptic"
+			},
+			"344538987": {
+				"name": "Talulah Riley",
+				"username": "TalulahRiley"
+			},
+			"410605574": {
+				"name": "BBC Future",
+				"username": "BBC_Future"
+			},
+			"427089628": {
+				"name": "Lex Fridman",
+				"username": "lexfridman"
+			},
+			"446719282": {
+				"name": "Shivon Zilis",
+				"username": "shivon"
+			},
+			"511402689": {
+				"name": "World and Science",
+				"username": "WorldAndScience"
+			},
+			"729468343": {
+				"name": "Rick and Morty",
+				"username": "RickandMorty"
+			},
+			"760345658": {
+				"name": "Brett Winton",
+				"username": "wintonARK"
+			},
+			"987978757": {
+				"name": "WLOP",
+				"username": "wlopwangling"
+			},
+			"1024391197": {
+				"name": "Victor Glover",
+				"username": "AstroVicGlover"
+			},
+			"1182382878": {
+				"name": "TeslaRoadTrip",
+				"username": "TeslaRoadTrip"
+			},
+			"1282121312": {
+				"name": "Tim Urban",
+				"username": "waitbutwhy"
+			},
+			"1308211178": {
+				"name": "TESLARATI",
+				"username": "Teslarati"
+			},
+			"1333467482": {
+				"name": "CoinDesk",
+				"username": "CoinDesk"
+			},
+			"1451773004": {
+				"name": "International Space Station",
+				"username": "Space_Station"
+			},
+			"1526643050": {
+				"name": "Scott Alexander",
+				"username": "slatestarcodex"
+			},
+			"1558996520": {
+				"name": "Niche Gamer",
+				"username": "nichegamer"
+			},
+			"1582853809": {
+				"name": "History In Pictures",
+				"username": "HistoryInPics"
+			},
+			"1654188770": {
+				"name": "Hyperloop",
+				"username": "Hyperloop"
+			},
+			"1720046887": {
+				"name": "Ilya Sutskever",
+				"username": "ilyasut"
+			},
+			"2235729541": {
+				"name": "Dogecoin",
+				"username": "dogecoin"
+			},
+			"2251623492": {
+				"name": "XKCD Comic",
+				"username": "xkcdComic"
+			},
+			"2263437272": {
+				"name": "Sam Korus",
+				"username": "skorusARK"
+			},
+			"2263452746": {
+				"name": "Tasha Keeney",
+				"username": "TashaARK"
+			},
+			"2292565884": {
+				"name": "PCMR",
+				"username": "OfficialPCMR"
+			},
+			"2329316496": {
+				"name": "Rebecca Newberger Goldstein",
+				"username": "platobooktour"
+			},
+			"2361631088": {
+				"name": "Cathie Wood",
+				"username": "CathieDWood"
+			},
+			"2436389418": {
+				"name": "SwiftOnSecurity",
+				"username": "SwiftOnSecurity"
+			},
+			"2444425802": {
+				"name": "MachinePix",
+				"username": "MachinePix"
+			},
+			"2445883045": {
+				"name": "Dogecoin Developers",
+				"username": "dogecoin_devs"
+			},
+			"2907774137": {
+				"name": "Archillect",
+				"username": "archillect"
+			},
+			"2993230373": {
+				"name": "Universal-Sci",
+				"username": "universal_sci"
+			},
+			"2997418453": {
+				"name": "NASA Europa Clipper",
+				"username": "EuropaClipper"
+			},
+			"3101588527": {
+				"name": "Wonder of Science",
+				"username": "wonderofscience"
+			},
+			"3167257102": {
+				"name": "Everyday Astronaut",
+				"username": "Erdayastronaut"
+			},
+			"3346820638": {
+				"name": "The Architect",
+				"username": "machineIearning"
+			},
+			"3429950987": {
+				"name": "World of Engineering",
+				"username": "engineers_feed"
+			},
+			"3511430425": {
+				"name": "Fermat's Library",
+				"username": "fermatslibrary"
+			},
+			"3669881952": {
+				"name": "GiGadgets",
+				"username": "gigadgets_"
+			},
+			"4230101712": {
+				"name": "じゃがりきん",
+				"username": "jagarikin"
+			},
+			"1335132884278108161": {
+				"name": "World of Statistics",
+				"username": "stats_feed"
+			},
+			"1179892477714718721": {
+				"name": "Science girl",
+				"username": "gunsnrosesgirl3"
+			},
+			"958324785229934593": {
+				"name": "黄光剑",
+				"username": "HGJart"
+			},
+			"4914384040": {
+				"name": "The Babylon Bee",
+				"username": "TheBabylonBee"
+			},
+			"1346194631982247943": {
+				"name": "Inspiration4",
+				"username": "inspiration4x"
+			},
+			"1402156691186241538": {
+				"name": "CNSA Watcher",
+				"username": "CNSAWatcher"
+			},
+			"1359595748942372867": {
+				"name": "Everything Space",
+				"username": "totalspace360"
+			},
+			"822825713615175680": {
+				"name": "Space Porn",
+				"username": "redditSpacePorn"
+			},
+			"1279551125264445448": {
+				"name": "Jared Isaacman",
+				"username": "rookisaacman"
+			},
+			"776585502606721024": {
+				"name": "PyTorch",
+				"username": "PyTorch"
+			},
+			"1100520274200416256": {
+				"name": "Tesmanian.com",
+				"username": "Tesmanian_com"
+			},
+			"1201427034754318337": {
+				"name": "Tesla Greater China",
+				"username": "teslacn"
+			},
+			"4783690002": {
+				"name": "DeepMind",
+				"username": "DeepMind"
+			},
+			"4398626122": {
+				"name": "OpenAI",
+				"username": "OpenAI"
+			},
+			"892826509622353920": {
+				"name": "Universal Curiosity",
+				"username": "UniverCurious"
+			},
+			"905158770107568133": {
+				"name": "Gen. Jay Raymond",
+				"username": "SpaceForceCSO"
+			},
+			"1091459141397180416": {
+				"name": "Mars",
+				"username": "4thFromOurStar"
+			},
+			"851773048973807617": {
+				"name": "The Stoic Emperor",
+				"username": "TheStoicEmperor"
+			},
+			"859816394556284929": {
+				"name": "The Boring Company",
+				"username": "boringcompany"
+			}
+		}
+	},
+	"rdd2nil": {
+		"followingIDS": [
+			"1434715588492881922",
+			"1432697985561944072",
+			"1442359891658563584",
+			"910439714187964416",
+			"984117658202226689",
+			"1387681513341263880",
+			"999509989239615489",
+			"1069827177527431168",
+			"1466736773329993729",
+			"1448908164095569921",
+			"18191307",
+			"84840297",
+			"25697989",
+			"53002114",
+			"88848391",
+			"1442437262663319565",
+			"1427214198711402497",
+			"1404773673555345417",
+			"1176824898729250816",
+			"59553554",
+			"44196397"
+		],
+		"followingData": {
+			"18191307": {
+				"name": "Хабр",
+				"username": "habr_com"
+			},
+			"25697989": {
+				"name": "Яндекс",
+				"username": "yandex"
+			},
+			"44196397": {
+				"name": "Elon Musk",
+				"username": "elonmusk"
+			},
+			"53002114": {
+				"name": "Google Россия",
+				"username": "GoogleRussia"
+			},
+			"59553554": {
+				"name": "Wendy’s",
+				"username": "Wendys"
+			},
+			"84840297": {
+				"name": "ForbesRussia",
+				"username": "ForbesRussia"
+			},
+			"88848391": {
+				"name": "Bumrungrad Hospital",
+				"username": "BumrungradH"
+			},
+			"1434715588492881922": {
+				"name": "Ninance",
+				"username": "NinanceOfficial"
+			},
+			"1432697985561944072": {
+				"name": "PlayPad | Launchpad In Metaverse",
+				"username": "AppPlayPad"
+			},
+			"1442359891658563584": {
+				"name": "ALTAVA",
+				"username": "altavagroup"
+			},
+			"910439714187964416": {
+				"name": "HyperPay",
+				"username": "Hyperpay_tech"
+			},
+			"984117658202226689": {
+				"name": "TokenPocket",
+				"username": "TokenPocket_TP"
+			},
+			"1387681513341263880": {
+				"name": "Coinhub Wallet",
+				"username": "Coinhub_Wallet"
+			},
+			"999509989239615489": {
+				"name": "HuobiWallet",
+				"username": "HuobiWallet"
+			},
+			"1069827177527431168": {
+				"name": "MathWallet",
+				"username": "MathWallet"
+			},
+			"1466736773329993729": {
+				"name": "Tap Fantasy",
+				"username": "tapfantasy2021"
+			},
+			"1448908164095569921": {
+				"name": "Ninneko",
+				"username": "ninnekogame"
+			},
+			"1442437262663319565": {
+				"name": "TON",
+				"username": "ton_blockchain"
+			},
+			"1427214198711402497": {
+				"name": "Fleumurr",
+				"username": "fleumurrr"
+			},
+			"1404773673555345417": {
+				"name": "Кіт",
+				"username": "kitmrmr"
+			},
+			"1176824898729250816": {
+				"name": "TECH4ALL",
+				"username": "HUAWEI_TECH4ALL"
+			}
+		}
+	}
+}
